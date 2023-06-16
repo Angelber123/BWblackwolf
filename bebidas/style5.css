@@ -1,0 +1,125 @@
+body{
+    background: #1b2425;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.menu{
+    list-style: none;
+    padding: 0%;
+    background: black;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+}
+.menu li a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+}
+.menu li{
+    display: inline-block;
+    text-align: center;
+}
+.menu1{
+    list-style: none;
+    padding: 1%;
+    background: black;
+    width: 140px; 
+    margin: 0%;
+    float: left;
+}
+.menu1 li{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+    text-align: left;
+}
+.menu1 li a{
+    text-decoration: none;
+    color: white;
+    display: block;
+    padding: 10px;
+}
+.menu li a:hover{
+    background-color: hsl(220, 9%, 7%);
+}
+.titulo{
+    color: white;
+    margin-left: 610px;
+}
+.img{
+    width: 280px;
+    height: 200px;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+.principal{
+    width: 90px;
+    height: 58px;
+    margin-left: 850px;
+    margin-top: -100px;
+    margin-bottom: 15px;
+}
+.img1{
+    width: 280px;
+    height: 200px;
+    margin-left: 250px;
+}
+.img2{
+    width: 280px;
+    height: 200px;
+    margin-left: 80px;
+    margin-top: 175px;
+}
+.img3{
+    width: 280px;
+    height: 200px;
+    margin-left: 250px;
+}
+.img4{
+    width: 280px;
+    height: 200px;
+    margin-top: 173px;   
+    margin-left: 80px; 
+}
+.img5{
+    width: 280px;
+    height: 200px;
+    margin-left: 250px;
+    margin-top: 178px;
+}
+.contenedor {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 180px;
+}
+.contenedor a {
+    font-size: 17px;
+}
+.black{
+    color: black;
+}
+.black1{
+    color: black;
+}
+.contenedor a:hover{
+    transform: scale(1.5);
+}
+.fondo{
+    background-color: rgb(43, 41, 43)
+}
+.coch{
+    background-color: #171b1b;
+    padding: 50px;
+}
+.black2{
+    color: black;
+}
+.img7{
+    width: 280px;
+    height: 200px;
+    margin-left: 80px;
+    margin-top: 178px;
+}
