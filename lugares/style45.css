@@ -1,0 +1,121 @@
+body{
+    background: #1b2425;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.menu{
+    list-style: none;
+    padding: 0%;
+    background: black;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+}
+.menu li a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+}
+.menu li{
+    display: inline-block;
+    text-align: center;
+}
+.menu1{
+    list-style: none;
+    padding: 1%;
+    background: black;
+    width: 150px; 
+    margin: 1%;
+    float: left;
+    margin-top: 50px;
+}
+.menu1 li{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+    text-align: left;
+}
+.menu1 li a{
+    text-decoration: none;
+    color: white;
+    display: block;
+    padding: 10px;
+}
+.img{
+    width: 280px;
+    height: 200px;
+    margin-left: 35px;
+    margin-top: 20px;
+}
+.im1{
+    width: 280px;
+    height: 200px;
+    margin-left: 28px;
+}
+.im2{
+    width: 280px;
+    height: 200px;
+    margin-left: 28px;
+}
+.im3{
+    width: 280px;
+    height: 200px;
+    margin-top: 25px;
+    margin-left: 240px;
+}
+.im4{
+    width: 280px;
+    height: 200px;
+    margin-left: 28px;
+}
+.im5{
+    width: 280px;
+    height: 200px;
+    margin-left: 28px;
+}
+.b1{
+    width: 280px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 240px;
+}
+.b2{
+    width: 280px;
+    height: 200px;
+    margin-left: 28px;
+}
+.b3{
+    width: 280px;
+    height: 200px;
+    margin-left: 28px;
+}
+.b4{
+    width: 280px;
+    height: 200px;
+    margin-top: 25px;
+    margin-left: 240px;
+}
+.b5{
+    width: 280px;
+    height: 200px;
+    margin-left: 28px;
+}
+.b6{
+    width: 280px;
+    height: 200px;
+    margin-left: 28px;
+}
+.copy{
+    margin-top: 100px !important;
+}
+.i1{
+    width: 670px;
+    height: 500px;
+    margin-left: 130px;
+}
+.i2{
+    width: 670px;
+    height: 500px;
+    margin-left: 330px;
+}
